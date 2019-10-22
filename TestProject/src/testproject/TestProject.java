@@ -18,7 +18,10 @@ public class TestProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int n1 = 0;
+        int n2 = 1;
         
+        System.out.println(0+1);
                 
     }
     
