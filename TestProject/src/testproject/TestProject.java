@@ -20,8 +20,9 @@ public class TestProject {
         // TODO code application logic here
         int n1 = 0;
         int n2 = 1;
+        int result = n1 + n2;
         
-        System.out.println(0+1);
+        System.out.println(result);
                 
     }
     
