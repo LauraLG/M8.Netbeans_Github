@@ -21,7 +21,9 @@ public class TestProject {
         int n2 = 1;
         int result = n1 + n2;
         
+        
         System.out.println(result);
+        System.out.println("Errare humanum est");
                 
     }
     
